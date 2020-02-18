@@ -67,13 +67,13 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             ListTile(
-              title: Text('Menu 1'),
+              title: Text('Home'),
               onTap: (){
                 Navigator.pop(context);
               },
             ),
             ListTile(
-              title: Text('Menu 2'),
+              title: Text('Settings'),
               onTap: (){
                 Navigator.pop(context);
               },
